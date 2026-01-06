@@ -45,7 +45,7 @@ This project provides a small ensemble classifier built with `ResNet50`, `Effici
 ### Installation (Windows example)
 
 ```powershell
-git clone <your-repo-url>
+git clone https://github.com/Divine2k/ai-image-classifier
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
